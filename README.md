@@ -26,7 +26,7 @@ cd rock-paper-scissors
 
 
 ## Usage
-1. Run the Flask server:
+1. Run the Flask server
 ```bash
 python app.py
 ```
