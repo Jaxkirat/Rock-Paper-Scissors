@@ -30,7 +30,7 @@ cd rock-paper-scissors
 ```bash
 python app.py
 ```
-2. Open your web browser and navigate to `http://localhost:5000` to play the 
+2. Open your web browser and navigate to `http://localhost:5000` to play the game.
 
 ## Screenshots
 
